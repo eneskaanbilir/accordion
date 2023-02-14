@@ -1,1 +1,1 @@
-# accordion
+# accordion örneği
